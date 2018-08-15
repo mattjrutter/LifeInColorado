@@ -1,0 +1,22 @@
+name: LifeInColorado
+description: A new flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - images/collared.jpg
+    - images/cougar.jpg
+    - images/deer.jpg
+    - images/elk.jpg
+    - images/grouse.jpg
+    - images/horned.jpg
+    - images/lark.jpg
+    - images/merganser.jpg
+    - images/ram.jpg
+    - images/rattlesnake.jpg
+    - images/redTailedHawk.jpg
+    - images/squirrel.jpg
+    - images/turtle.jpg
